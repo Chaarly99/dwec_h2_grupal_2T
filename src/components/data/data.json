@@ -1,0 +1,87 @@
+
+[       
+{   
+    "id" : 1,
+    "nombre" : "Emmanuel",  
+    "apellido1"  : "Castillo",
+    "edad"       : 20,
+    "anio_nac" : 2001
+},
+{ 
+    "id" : 2,
+    "nombre" : "Raúl",  
+    "apellido1"  : "Medina",
+    "edad"       : 21,
+    "anio_nac" : 2000
+},
+{ 
+    "id" : 3,
+    "nombre" : "Álvaro",  
+    "apellido1"  : "Rojo",
+    "edad"       : 19,
+    "anio_nac" : 2003
+},
+{ 
+    "id" : 4,
+    "nombre" : "Marta",  
+    "apellido1"  : "Gómez",
+    "edad"       : 22,
+    "anio_nac" : 2000
+},
+{ 
+    "id" : 5,
+    "nombre" : "Óscar",  
+    "apellido1"  : "Izquierdo",
+    "edad"       : 20, 
+    "anio_nac" : 2002
+},
+{ 
+    "id" : 6,
+    "nombre" : "Manuel",  
+    "apellido1"  : "Morales",
+    "edad"       : 20,
+    "anio_nac" : 2001 
+},
+{ 
+    "id" : 7,
+    "nombre" : "Carlos",  
+    "apellido1"  : "Parro",
+    "edad"       : 22,
+    "anio_nac" : 1999
+},
+{ 
+    "id" : 8,
+    "nombre" : "Miguel",  
+    "apellido1"  : "Rodríguez",
+    "edad"       : 20,
+    "anio_nac" : 2001
+},
+{ 
+    "id" : 9,
+    "nombre" : "Enrique",  
+    "apellido1"  : "Padilla",
+    "edad"       : 22,
+    "anio_nac" : 1999
+},
+{ 
+    "id" : 10,
+    "nombre" : "Celia",  
+    "apellido1"  : "Torrecilla",
+    "edad"       : 24,
+    "anio_nac" : 1997
+},
+{ 
+    "id" : 11,
+    "nombre" : "Óscar",  
+    "apellido1"  : "Pacheco",
+    "edad"       : 20,
+    "anio_nac" : 2001
+},
+{ 
+    "id" : 12,
+    "nombre" : "Pablo",  
+    "apellido1"  : "Méndez",
+    "edad"       : 21,
+    "anio_nac" : 2000
+}
+]
